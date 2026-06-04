@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300&family=Open+Sans:wght@300;400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Open Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Merriweather", ui-serif, Georgia, serif;
+}
+
+/* Custom transitions and styling variables */
+.bg-navy {
+  background-color: #1A2B4A;
+}
+
+.text-navy {
+  color: #1A2B4A;
+}
+
+.text-gold {
+  color: #C8A04A;
+}
+
+.bg-gold {
+  background-color: #C8A04A;
+}
+
+.border-gold {
+  borderColor: #C8A04A;
+}
+
+.hover-gold:hover {
+  background-color: #b08d40;
+}
+

@@ -1,0 +1,8 @@
+{
+  "name": "LexiAid",
+  "description": "A comprehensive Legal Awareness Portal built to empower common citizens, students, and women with clear, plain-language knowledge about their legal rights and FIR procedures.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
