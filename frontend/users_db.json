@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "fullName": "Ananya Sharma",
+    "email": "ananya@lexiaid.com",
+    "passwordHash": "$2b$10$TqIbHRxlqMcj5Bu8zRctveinaEjaSFm4bra61ftBgzukboDAt1.Ka",
+    "phone": "9876543210",
+    "createdAt": "2026-06-05T04:15:37.198Z"
+  },
+  {
+    "id": 2,
+    "fullName": "akash",
+    "email": "kishoree@gmail.com",
+    "passwordHash": "$2b$10$nasCSD/N1yef2ghI7r4OBeqZL7Ritf4dMuJavIg7GOGOVMMFgJHNW",
+    "phone": "9876543210",
+    "createdAt": "2026-06-05T04:51:31.085Z"
+  },
+  {
+    "id": 3,
+    "fullName": "kishore",
+    "email": "kishore@gmail.com",
+    "passwordHash": "$2b$10$.XcNunT9ysr24Y/71OTOkervb8qagDbVLiypKzaqPNPK4sAZVyf2O",
+    "phone": "",
+    "createdAt": "2026-06-05T04:59:47.307Z"
+  }
+]

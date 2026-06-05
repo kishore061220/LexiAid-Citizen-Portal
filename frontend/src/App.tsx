@@ -1179,7 +1179,7 @@ export default function App() {
                         <div>
                           <h4 className="font-serif font-bold text-lg">Alternative Online Complaints</h4>
                           <p className="text-xs text-slate-300 mt-0.5 leading-relaxed">
-                            You do not always need to visit a physical station. Specialized web systems launched by the Government of India allow reporting cyber, women distress, and public grievances online.
+                            You do not always need to visit a physical station. Specialized web systems launched by the Government of India allow reporting cyber crime, obtaining free legal aid, and registering public grievances online.
                           </p>
                         </div>
                       </div>
@@ -1202,12 +1202,12 @@ export default function App() {
                           Public Grievances (pgportal.gov.in)
                         </a>
                         <a 
-                          href="https://womenhelpline.in" 
+                          href="https://nalsa.gov.in" 
                           target="_blank" 
                           rel="noreferrer" 
                           className="bg-slate-800 hover:bg-slate-700/85 text-xs text-slate-200 p-3 rounded-xl block border border-slate-700 text-center font-semibold"
                         >
-                          NCW Commission help
+                          Free Legal Aid (nalsa.gov.in)
                         </a>
                       </div>
                     </div>
