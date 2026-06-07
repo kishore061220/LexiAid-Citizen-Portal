@@ -401,6 +401,7 @@ export default function App() {
         setAuthView("none");
         setEmailInput("");
         setPasswordInput("");
+        setPortalSection("home");
         triggerAlert(`Welcome back, ${data.user.fullName}!`, "success");
       } else {
         setAuthError(data.error || "Login credentials failed.");
